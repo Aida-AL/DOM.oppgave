@@ -8,10 +8,7 @@ avsnitt.addEventListener("click",event => {
 });
 
 
-
-
-
-
+document.getElementById('bilde2').src = "dog2.jpg";
 
 
 
